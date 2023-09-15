@@ -1,0 +1,12 @@
+albumentations
+datasets
+evaluate
+numpy
+Pillow
+pycocotools
+timm
+transformers==4.30.2
+transformers[torch]
+torch
+torchvision
+
